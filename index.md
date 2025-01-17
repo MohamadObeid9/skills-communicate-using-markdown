@@ -1,3 +1,9 @@
 # OVERVIEW
 this is a test repo from github to try and teach me the markdown syntax
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+```javascript
+console.log("hello world ");
+```
