@@ -7,3 +7,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 console.log("hello world ");
 ```
+- [X] hii
+- [ ] bye 
